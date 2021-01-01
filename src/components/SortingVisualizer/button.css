@@ -1,0 +1,9 @@
+.button-style {
+    background-color :Green;
+    height: 100px;
+    width : 100px;
+    border-radius: 20px;
+    color  : yellow;
+    font-size: 20px;
+    position:relative;
+}
